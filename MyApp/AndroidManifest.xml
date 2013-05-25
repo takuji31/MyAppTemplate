@@ -22,7 +22,7 @@
         </activity>
         <!-- Suppress warnings -->
         <activity
-            android:name=".ui.MyAppActivity_"
+            android:name=".base.MyAppActivity_"
             android:enabled="false" >
         </activity>
     </application>

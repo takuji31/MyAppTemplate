@@ -1,4 +1,4 @@
-package jp.example.myapp.ui;
+package jp.example.myapp.base;
 
 import jp.example.myapp.MyApp;
 

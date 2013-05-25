@@ -1,6 +1,9 @@
-package jp.example.myapp;
+package jp.example.myapp.ui.activity;
 
-import jp.example.myapp.ui.MyAppActivity;
+import jp.example.myapp.R;
+import jp.example.myapp.R.array;
+import jp.example.myapp.R.layout;
+import jp.example.myapp.base.MyAppActivity;
 import android.os.Bundle;
 import android.support.v4.app.FragmentTransaction;
 import android.util.Log;
